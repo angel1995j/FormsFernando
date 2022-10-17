@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933184594649",
+    "project_id": "form-32e8c",
+    "storage_bucket": "form-32e8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933184594649:android:351fa19c9cce3f2148d4c8",
+        "android_client_info": {
+          "package_name": "com.formproject.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933184594649-j2te805na0e8gg99defh1ann98ol4gp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_bLuLuO30koq66zoY9V0fiJOB2iXe7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933184594649-j2te805na0e8gg99defh1ann98ol4gp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
